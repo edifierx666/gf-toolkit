@@ -1,4 +1,4 @@
-module edx/gf-toolkit
+module github.com/edifierx666/gf-toolkit
 
 go 1.21
 

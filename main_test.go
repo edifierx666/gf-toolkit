@@ -4,7 +4,7 @@ import (
   "testing"
   "time"
 
-  "edx/gf-toolkit/gtjwt"
+  "github.com/edifierx666/gf-toolkit/gtjwt"
   "github.com/gogf/gf/v2/container/gvar"
   "github.com/gogf/gf/v2/frame/g"
   "github.com/golang-jwt/jwt/v5"
